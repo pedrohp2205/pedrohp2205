@@ -1,4 +1,4 @@
-## Oiii eu sou o Pedro Henrique, estudante de Ciências da Computação!
+## Oi eu sou o Pedro Henrique, estudante de Ciências da Computação!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohp2205&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
